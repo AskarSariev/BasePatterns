@@ -11,27 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffa6d1a2-20c4-4ec8-b530-fa24db2f8e06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasePatterns.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/creational/factory/CppDeveloper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/creational/factory/CppDeveloperFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/creational/factory/Developer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/creational/factory/DeveloperFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/creational/factory/JavaDeveloper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/creational/factory/JavaDeveloperFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/creational/factory/Program.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/creational/factory/CppDeveloper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/creational/factory/CppDeveloperFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/creational/factory/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/creational/factory/DeveloperFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/creational/factory/FactoryMethod.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/creational/factory/JavaDeveloper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/creational/factory/JavaDeveloperFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/creational/factory/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +31,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1uGb2K0B6A4RBg280oiOdOS42iY" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -62,6 +43,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -98,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624294664584</updated>
-      <workItem from="1624294674300" duration="3291000" />
+      <workItem from="1624294674300" duration="4380000" />
     </task>
     <servers />
   </component>
@@ -121,6 +103,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="976" y="156" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1624299799068" />
+    <state x="463" y="113" key="FileChooserDialogImpl" timestamp="1624301579794">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="113" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1624301579794" />
     <state width="1306" height="143" key="GridCell.Tab.0.bottom" timestamp="1624300538328">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
