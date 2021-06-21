@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ffa6d1a2-20c4-4ec8-b530-fa24db2f8e06" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasePatterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/creational/factory/CppDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/creational/factory/CppDeveloperFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/creational/factory/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/creational/factory/DeveloperFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/creational/factory/JavaDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/creational/factory/JavaDeveloperFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/creational/factory/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaEETest/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaEETest/.idea/artifacts/JavaEETest_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaEETest/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaEETest/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaEETest/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaEETest/JavaEETest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaEETest/out/artifacts/JavaEETest_war_exploded/WEB-INF/classes/FirstServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaEETest/out/artifacts/JavaEETest_war_exploded/WEB-INF/classes/META-INF/JavaEETest.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaEETest/out/artifacts/JavaEETest_war_exploded/WEB-INF/classes/MyServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaEETest/out/artifacts/JavaEETest_war_exploded/WEB-INF/classes/logic/TestClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaEETest/out/artifacts/JavaEETest_war_exploded/WEB-INF/classes/somePackage/Cart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaEETest/out/artifacts/JavaEETest_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaEETest/out/artifacts/JavaEETest_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaEETest/out/artifacts/JavaEETest_war_exploded/showCart.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaEETest/out/artifacts/JavaEETest_war_exploded/test_jsp.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaEETest/out/production/JavaEETest/FirstServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaEETest/out/production/JavaEETest/META-INF/JavaEETest.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaEETest/out/production/JavaEETest/MyServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaEETest/out/production/JavaEETest/logic/TestClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaEETest/out/production/JavaEETest/somePackage/Cart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaEETest/src/FirstServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaEETest/src/MyServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaEETest/src/logic/TestClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaEETest/src/somePackage/Cart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaEETest/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaEETest/web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaEETest/web/showCart.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaEETest/web/test_jsp.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/devfile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1uGb2K0B6A4RBg280oiOdOS42iY" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="net.proselyte.basepatterns.creational.factory" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.proselyte.basepatterns.creational.factory.Program" />
+      <module name="BasePatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.proselyte.basepatterns.creational.factory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Program" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffa6d1a2-20c4-4ec8-b530-fa24db2f8e06" name="Default Changelist" comment="" />
+      <created>1624294664584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624294664584</updated>
+      <workItem from="1624294674300" duration="2569000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="976" y="156" key="#com.intellij.ide.util.MemberChooser" timestamp="1624299799068">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="976" y="156" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1624299799068" />
+    <state width="1323" height="254" key="GridCell.Tab.0.bottom" timestamp="1624300505562">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="254" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1624300505562" />
+    <state width="1323" height="254" key="GridCell.Tab.0.center" timestamp="1624300505531">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="254" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1624300505531" />
+    <state width="1323" height="254" key="GridCell.Tab.0.left" timestamp="1624300505531">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="254" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1624300505531" />
+    <state width="1323" height="254" key="GridCell.Tab.0.right" timestamp="1624300505531">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="254" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1624300505531" />
+  </component>
+</project>
