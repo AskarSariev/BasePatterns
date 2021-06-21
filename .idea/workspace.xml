@@ -6,62 +6,32 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffa6d1a2-20c4-4ec8-b530-fa24db2f8e06" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/BasePatterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/creational/factory/CppDeveloper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/creational/factory/CppDeveloperFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/creational/factory/Developer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/creational/factory/DeveloperFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/creational/factory/JavaDeveloper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/creational/factory/JavaDeveloperFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/creational/factory/Program.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/creational/factory/CppDeveloper.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/creational/factory/CppDeveloperFactory.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/creational/factory/Developer.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/creational/factory/DeveloperFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/creational/factory/FactoryMethod.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/creational/factory/JavaDeveloper.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/creational/factory/JavaDeveloperFactory.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/creational/factory/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaEETest/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaEETest/.idea/artifacts/JavaEETest_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaEETest/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaEETest/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaEETest/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaEETest/JavaEETest.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaEETest/out/artifacts/JavaEETest_war_exploded/WEB-INF/classes/FirstServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaEETest/out/artifacts/JavaEETest_war_exploded/WEB-INF/classes/META-INF/JavaEETest.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaEETest/out/artifacts/JavaEETest_war_exploded/WEB-INF/classes/MyServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaEETest/out/artifacts/JavaEETest_war_exploded/WEB-INF/classes/logic/TestClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaEETest/out/artifacts/JavaEETest_war_exploded/WEB-INF/classes/somePackage/Cart.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaEETest/out/artifacts/JavaEETest_war_exploded/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaEETest/out/artifacts/JavaEETest_war_exploded/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaEETest/out/artifacts/JavaEETest_war_exploded/showCart.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaEETest/out/artifacts/JavaEETest_war_exploded/test_jsp.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaEETest/out/production/JavaEETest/FirstServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaEETest/out/production/JavaEETest/META-INF/JavaEETest.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaEETest/out/production/JavaEETest/MyServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaEETest/out/production/JavaEETest/logic/TestClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaEETest/out/production/JavaEETest/somePackage/Cart.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaEETest/src/FirstServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaEETest/src/MyServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaEETest/src/logic/TestClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaEETest/src/somePackage/Cart.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaEETest/web/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaEETest/web/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaEETest/web/showCart.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaEETest/web/test_jsp.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/devfile.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +98,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624294664584</updated>
-      <workItem from="1624294674300" duration="2569000" />
+      <workItem from="1624294674300" duration="3291000" />
     </task>
     <servers />
   </component>
@@ -151,21 +121,21 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="976" y="156" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1624299799068" />
-    <state width="1323" height="254" key="GridCell.Tab.0.bottom" timestamp="1624300505562">
+    <state width="1306" height="143" key="GridCell.Tab.0.bottom" timestamp="1624300538328">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="254" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1624300505562" />
-    <state width="1323" height="254" key="GridCell.Tab.0.center" timestamp="1624300505531">
+    <state width="1306" height="143" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1624300538328" />
+    <state width="1306" height="143" key="GridCell.Tab.0.center" timestamp="1624300538327">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="254" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1624300505531" />
-    <state width="1323" height="254" key="GridCell.Tab.0.left" timestamp="1624300505531">
+    <state width="1306" height="143" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1624300538327" />
+    <state width="1306" height="143" key="GridCell.Tab.0.left" timestamp="1624300538327">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="254" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1624300505531" />
-    <state width="1323" height="254" key="GridCell.Tab.0.right" timestamp="1624300505531">
+    <state width="1306" height="143" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1624300538327" />
+    <state width="1306" height="143" key="GridCell.Tab.0.right" timestamp="1624300538328">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="254" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1624300505531" />
+    <state width="1306" height="143" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1624300538328" />
   </component>
 </project>
