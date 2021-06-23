@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=cmyUI_ZezoU&list=PLlsMRoVt5sTPgGbinwOVnaF1mxNeLAD7P&index=5
+
 Шаблон: Абстракция фабрики (Abstarct Factory)
 
 Цель:
