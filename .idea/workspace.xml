@@ -11,14 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffa6d1a2-20c4-4ec8-b530-fa24db2f8e06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/creational/builder/BuildWebsiteRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/creational/builder/Builder.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/creational/builder/Cms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/creational/builder/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/creational/builder/EnterpriseWebsiteBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/creational/builder/VisitCardWebsiteBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/creational/builder/Website.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/creational/builder/WebsiteBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/prototype/Copyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/prototype/Project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/prototype/ProjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/prototype/Prototype.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,12 +50,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\git-direct\src\net\proselyte\basepatterns\prototype" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="net.proselyte.basepatterns.creational.builder" />
       <recent name="net.proselyte.basepatterns.creational.factory" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BuildWebsiteRunner">
+  <component name="RunManager" selected="Application.VersionControlRunner">
     <configuration name="AuctionSiteProject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="net.proselyte.basepatterns.creational.abstractfactory.AuctionSiteProject" />
       <module name="BasePatterns" />
@@ -79,19 +78,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="net.proselyte.basepatterns.creational.builder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.proselyte.basepatterns.creational.factory.Program" />
-      <module name="BasePatterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="net.proselyte.basepatterns.creational.factory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,13 +111,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VersionControlRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.proselyte.basepatterns.prototype.VersionControlRunner" />
+      <module name="BasePatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.proselyte.basepatterns.prototype.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VersionControlRunner" />
         <item itemvalue="Application.BuildWebsiteRunner" />
         <item itemvalue="Application.ProgramRunner" />
         <item itemvalue="Application.SuperBankSystem" />
         <item itemvalue="Application.AuctionSiteProject" />
-        <item itemvalue="Application.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +146,7 @@
       <updated>1624294664584</updated>
       <workItem from="1624294674300" duration="4604000" />
       <workItem from="1624464348270" duration="55000" />
-      <workItem from="1624465313189" duration="7383000" />
+      <workItem from="1624465313189" duration="9089000" />
     </task>
     <servers />
   </component>
@@ -167,30 +166,30 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="910" y="150" key="#com.intellij.ide.util.MemberChooser" timestamp="1624475284964">
+    <state x="910" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1624477267394">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="910" y="150" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1624475284964" />
+    <state x="910" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1624477267393" />
     <state x="463" y="113" key="FileChooserDialogImpl" timestamp="1624301579794">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="463" y="113" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1624301579794" />
-    <state width="1306" height="143" key="GridCell.Tab.0.bottom" timestamp="1624472322352">
+    <state width="1323" height="206" key="GridCell.Tab.0.bottom" timestamp="1624476136739">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1306" height="143" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1624472322352" />
-    <state width="1306" height="143" key="GridCell.Tab.0.center" timestamp="1624472322352">
+    <state width="1323" height="206" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1624476136739" />
+    <state width="1323" height="206" key="GridCell.Tab.0.center" timestamp="1624476136739">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1306" height="143" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1624472322352" />
-    <state width="1306" height="143" key="GridCell.Tab.0.left" timestamp="1624472322351">
+    <state width="1323" height="206" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1624476136739" />
+    <state width="1323" height="206" key="GridCell.Tab.0.left" timestamp="1624476136738">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1306" height="143" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1624472322351" />
-    <state width="1306" height="143" key="GridCell.Tab.0.right" timestamp="1624472322352">
+    <state width="1323" height="206" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1624476136738" />
+    <state width="1323" height="206" key="GridCell.Tab.0.right" timestamp="1624476136739">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1306" height="143" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1624472322352" />
+    <state width="1323" height="206" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1624476136739" />
     <state x="147" y="21" key="SettingsEditor" timestamp="1624465712057">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
