@@ -11,11 +11,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffa6d1a2-20c4-4ec8-b530-fa24db2f8e06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/prototype/Copyable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/prototype/Project.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/prototype/ProjectFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/prototype/Prototype.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/behavioral/strategy/Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/behavioral/strategy/Coding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/behavioral/strategy/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/behavioral/strategy/DeveloperRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/behavioral/strategy/Reading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/behavioral/strategy/Sleeping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/behavioral/strategy/Strategy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/behavioral/strategy/Training.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/MiniDuckSimulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/duck/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/duck/MallardDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/duck/ModelDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/fly/FlyBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/fly/FlyNoWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/fly/FlyRocketPowered.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/fly/FlyWithWings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/quack/MuteQuack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/quack/Quack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/quack/QuackBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/quack/Squeak.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/prototype/Copyable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/prototype/Project.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/prototype/ProjectFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/prototype/Prototype.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/prototype/VersionControlRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/proselyte/basepatterns/prototype/Copyable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/creational/prototype/Copyable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/proselyte/basepatterns/prototype/Project.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/creational/prototype/Project.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/proselyte/basepatterns/prototype/ProjectFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/creational/prototype/ProjectFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/proselyte/basepatterns/prototype/Prototype.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/creational/prototype/Prototype.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/proselyte/basepatterns/prototype/VersionControlRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/creational/prototype/VersionControlRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,21 +76,22 @@
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\git-direct\src\net\proselyte\basepatterns\prototype" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="net.proselyte.headfirst" />
       <recent name="net.proselyte.basepatterns.creational.builder" />
       <recent name="net.proselyte.basepatterns.creational.factory" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\git-direct\src\net\proselyte\basepatterns\prototype" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.VersionControlRunner">
-    <configuration name="AuctionSiteProject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.proselyte.basepatterns.creational.abstractfactory.AuctionSiteProject" />
+  <component name="RunManager" selected="Application.DeveloperRunner">
+    <configuration name="BuildWebsiteRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.proselyte.basepatterns.creational.builder.BuildWebsiteRunner" />
       <module name="BasePatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="net.proselyte.basepatterns.creational.abstractfactory.*" />
+          <option name="PATTERN" value="net.proselyte.basepatterns.creational.builder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +99,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BuildWebsiteRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.proselyte.basepatterns.creational.builder.BuildWebsiteRunner" />
+    <configuration name="DeveloperRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.proselyte.basepatterns.behavioral.strategy.DeveloperRunner" />
       <module name="BasePatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="net.proselyte.basepatterns.creational.builder.*" />
+          <option name="PATTERN" value="net.proselyte.basepatterns.behavioral.strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MiniDuckSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.proselyte.headfirst.MiniDuckSimulator" />
+      <module name="BasePatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.proselyte.headfirst.fly.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,25 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SuperBankSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.proselyte.basepatterns.creational.abstractfactory.SuperBankSystem" />
-      <module name="BasePatterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="net.proselyte.basepatterns.creational.abstractfactory.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="VersionControlRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.proselyte.basepatterns.prototype.VersionControlRunner" />
+      <option name="MAIN_CLASS_NAME" value="net.proselyte.basepatterns.creational.prototype.VersionControlRunner" />
       <module name="BasePatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="net.proselyte.basepatterns.prototype.*" />
+          <option name="PATTERN" value="net.proselyte.basepatterns.creational.prototype.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeveloperRunner" />
+        <item itemvalue="Application.MiniDuckSimulator" />
         <item itemvalue="Application.VersionControlRunner" />
         <item itemvalue="Application.BuildWebsiteRunner" />
         <item itemvalue="Application.ProgramRunner" />
-        <item itemvalue="Application.SuperBankSystem" />
-        <item itemvalue="Application.AuctionSiteProject" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +173,8 @@
       <updated>1624294664584</updated>
       <workItem from="1624294674300" duration="4604000" />
       <workItem from="1624464348270" duration="55000" />
-      <workItem from="1624465313189" duration="9089000" />
+      <workItem from="1624465313189" duration="9434000" />
+      <workItem from="1624550048048" duration="5400000" />
     </task>
     <servers />
   </component>
@@ -166,30 +194,30 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="910" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1624477267394">
+    <state x="910" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1624555456902">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="910" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1624477267393" />
+    <state x="910" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1624555456902" />
     <state x="463" y="113" key="FileChooserDialogImpl" timestamp="1624301579794">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="463" y="113" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1624301579794" />
-    <state width="1323" height="206" key="GridCell.Tab.0.bottom" timestamp="1624476136739">
+    <state width="1306" height="161" key="GridCell.Tab.0.bottom" timestamp="1624554418120">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="206" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1624476136739" />
-    <state width="1323" height="206" key="GridCell.Tab.0.center" timestamp="1624476136739">
+    <state width="1306" height="161" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1624554418120" />
+    <state width="1306" height="161" key="GridCell.Tab.0.center" timestamp="1624554418120">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="206" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1624476136739" />
-    <state width="1323" height="206" key="GridCell.Tab.0.left" timestamp="1624476136738">
+    <state width="1306" height="161" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1624554418120" />
+    <state width="1306" height="161" key="GridCell.Tab.0.left" timestamp="1624554418119">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="206" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1624476136738" />
-    <state width="1323" height="206" key="GridCell.Tab.0.right" timestamp="1624476136739">
+    <state width="1306" height="161" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1624554418119" />
+    <state width="1306" height="161" key="GridCell.Tab.0.right" timestamp="1624554418120">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="206" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1624476136739" />
+    <state width="1306" height="161" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1624554418120" />
     <state x="147" y="21" key="SettingsEditor" timestamp="1624465712057">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

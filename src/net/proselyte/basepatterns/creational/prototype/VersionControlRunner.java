@@ -1,4 +1,4 @@
-package net.proselyte.basepatterns.prototype;
+package net.proselyte.basepatterns.creational.prototype;
 
 public class VersionControlRunner {
     public static void main(String[] args) {
