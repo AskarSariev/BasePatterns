@@ -11,44 +11,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffa6d1a2-20c4-4ec8-b530-fa24db2f8e06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/behavioral/observer/JavaDeveloperJobSite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/behavioral/observer/JobSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/behavioral/observer/Observed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/behavioral/observer/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/behavioral/observer/Observer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/behavioral/observer/Subscriber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/observer/CurrentConditionsDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/observer/DisplayElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/observer/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/observer/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/observer/WeatherData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/observer/WeatherStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/decorator/Decorator.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/decorator/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/decorator/DeveloperDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/decorator/JavaDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/decorator/JavaTeamLead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/decorator/SeniorJavaDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/decorator/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/decorator/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/decorator/CondimentDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/decorator/StarbuzzCoffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/decorator/coffee/Espresso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/decorator/coffee/HouseBlend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/decorator/condiments/Mocha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/decorator/condiments/Soy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/decorator/condiments/Whip.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/headfirst/MiniDuckSimulator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/headfirst/duck/Duck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/headfirst/duck/MallardDuck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/headfirst/duck/ModelDuck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/headfirst/fly/FlyBehavior.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/headfirst/fly/FlyNoWay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/headfirst/fly/FlyRocketPowered.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/headfirst/fly/FlyWithWings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/headfirst/quack/MuteQuack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/headfirst/quack/Quack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/headfirst/quack/QuackBehavior.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/headfirst/quack/Squeak.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/proselyte/basepatterns/behavioral/strategy/Strategy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/behavioral/strategy/Strategy.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/proselyte/headfirst/MiniDuckSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/strategy/MiniDuckSimulator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/proselyte/headfirst/duck/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/strategy/duck/Duck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/proselyte/headfirst/duck/MallardDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/strategy/duck/MallardDuck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/proselyte/headfirst/duck/ModelDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/strategy/duck/ModelDuck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/proselyte/headfirst/fly/FlyBehavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/strategy/fly/FlyBehavior.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/proselyte/headfirst/fly/FlyNoWay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/strategy/fly/FlyNoWay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/proselyte/headfirst/fly/FlyRocketPowered.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/strategy/fly/FlyRocketPowered.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/proselyte/headfirst/fly/FlyWithWings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/strategy/fly/FlyWithWings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/proselyte/headfirst/quack/MuteQuack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/strategy/quack/MuteQuack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/proselyte/headfirst/quack/Quack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/strategy/quack/Quack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/proselyte/headfirst/quack/QuackBehavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/strategy/quack/QuackBehavior.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/net/proselyte/headfirst/quack/Squeak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/strategy/quack/Squeak.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +70,7 @@
       <recent name="C:\git-direct\src\net\proselyte\basepatterns\prototype" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JobSearch">
+  <component name="RunManager" selected="Application.Task">
     <configuration name="DeveloperRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="net.proselyte.basepatterns.behavioral.strategy.DeveloperRunner" />
       <module name="BasePatterns" />
@@ -119,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MiniDuckSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.proselyte.headfirst.strategy.MiniDuckSimulator" />
+    <configuration name="StarbuzzCoffee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.proselyte.headfirst.decorator.StarbuzzCoffee" />
       <module name="BasePatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="net.proselyte.headfirst.strategy.fly.*" />
+          <option name="PATTERN" value="net.proselyte.headfirst.decorator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VersionControlRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.proselyte.basepatterns.creational.prototype.VersionControlRunner" />
+    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.proselyte.basepatterns.structural.decorator.Task" />
       <module name="BasePatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="net.proselyte.basepatterns.creational.prototype.*" />
+          <option name="PATTERN" value="net.proselyte.basepatterns.structural.decorator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task" />
+        <item itemvalue="Application.StarbuzzCoffee" />
         <item itemvalue="Application.JobSearch" />
         <item itemvalue="Application.WeatherStation" />
         <item itemvalue="Application.DeveloperRunner" />
-        <item itemvalue="Application.MiniDuckSimulator" />
-        <item itemvalue="Application.VersionControlRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +161,7 @@
       <workItem from="1624465313189" duration="9434000" />
       <workItem from="1624550048048" duration="8135000" />
       <workItem from="1624806078208" duration="416000" />
-      <workItem from="1624896779691" duration="6677000" />
+      <workItem from="1624896779691" duration="9859000" />
     </task>
     <servers />
   </component>
@@ -203,46 +181,46 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="910" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1624901199341">
+    <state x="910" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1624908775381">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="910" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1624901199341" />
+    <state x="910" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1624908775381" />
     <state x="463" y="113" key="FileChooserDialogImpl" timestamp="1624301579794">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="463" y="113" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1624301579794" />
-    <state width="1323" height="319" key="GridCell.Tab.0.bottom" timestamp="1624905289416">
+    <state width="1323" height="218" key="GridCell.Tab.0.bottom" timestamp="1624908977065">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="319" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1624905289416" />
-    <state width="1323" height="319" key="GridCell.Tab.0.center" timestamp="1624905289416">
+    <state width="1323" height="218" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1624908977065" />
+    <state width="1323" height="218" key="GridCell.Tab.0.center" timestamp="1624908977065">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="319" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1624905289416" />
-    <state width="1323" height="319" key="GridCell.Tab.0.left" timestamp="1624905289416">
+    <state width="1323" height="218" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1624908977065" />
+    <state width="1323" height="218" key="GridCell.Tab.0.left" timestamp="1624908977065">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="319" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1624905289416" />
-    <state width="1323" height="319" key="GridCell.Tab.0.right" timestamp="1624905289416">
+    <state width="1323" height="218" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1624908977065" />
+    <state width="1323" height="218" key="GridCell.Tab.0.right" timestamp="1624908977065">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="319" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1624905289416" />
-    <state width="1323" height="218" key="GridCell.Tab.1.bottom" timestamp="1624898701243">
+    <state width="1323" height="218" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1624908977065" />
+    <state width="1323" height="218" key="GridCell.Tab.1.bottom" timestamp="1624908977065">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="218" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1624898701243" />
-    <state width="1323" height="218" key="GridCell.Tab.1.center" timestamp="1624898701243">
+    <state width="1323" height="218" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1624908977065" />
+    <state width="1323" height="218" key="GridCell.Tab.1.center" timestamp="1624908977065">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="218" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1624898701243" />
-    <state width="1323" height="218" key="GridCell.Tab.1.left" timestamp="1624898701243">
+    <state width="1323" height="218" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1624908977065" />
+    <state width="1323" height="218" key="GridCell.Tab.1.left" timestamp="1624908977065">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="218" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1624898701243" />
-    <state width="1323" height="218" key="GridCell.Tab.1.right" timestamp="1624898701243">
+    <state width="1323" height="218" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1624908977065" />
+    <state width="1323" height="218" key="GridCell.Tab.1.right" timestamp="1624908977065">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="218" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1624898701243" />
+    <state width="1323" height="218" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1624908977065" />
     <state x="147" y="21" key="SettingsEditor" timestamp="1624465712057">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
