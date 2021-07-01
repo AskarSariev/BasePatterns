@@ -10,28 +10,33 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffa6d1a2-20c4-4ec8-b530-fa24db2f8e06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/adapter/Adapter.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/adapter/AdapterJavaToDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/adapter/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/adapter/DatabaseRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/adapter/JavaApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/bridge/BankSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/bridge/Bridge.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/bridge/CppDeveloper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/bridge/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/bridge/JavaDeveloper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/bridge/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/bridge/ProgramCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/bridge/StockExchange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/factory/simple_factory/CheesePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/factory/simple_factory/ClamPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/factory/simple_factory/PepperoniPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/factory/simple_factory/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/factory/simple_factory/PizzaRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/factory/simple_factory/PizzaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/factory/simple_factory/SimplePizzaFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/headfirst/factory/simple_factory/VeggiePizza.java" afterDir="false" />
+    <list default="true" id="ffa6d1a2-20c4-4ec8-b530-fa24db2f8e06" name="Default Changelist" comment="Add Adapter, Bridge">
+      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/structural/adapter/Adapter.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/structural/adapter/AdapterJavaToDatabase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/structural/adapter/Database.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/structural/adapter/DatabaseRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/structural/adapter/JavaApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/structural/bridge/BankSystem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/structural/bridge/Bridge.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/structural/bridge/CppDeveloper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/structural/bridge/Developer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/structural/bridge/JavaDeveloper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/structural/bridge/Program.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/structural/bridge/ProgramCreator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/structural/bridge/StockExchange.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/headfirst/factory/simple_factory/CheesePizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/headfirst/factory/simple_factory/ClamPizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/headfirst/factory/simple_factory/PepperoniPizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/headfirst/factory/simple_factory/Pizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/headfirst/factory/simple_factory/PizzaRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/headfirst/factory/simple_factory/PizzaStore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/headfirst/factory/simple_factory/SimplePizzaFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/headfirst/factory/simple_factory/VeggiePizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/composite/Composite.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/composite/CppDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/composite/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/composite/JavaDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/composite/Team.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +83,7 @@
       <recent name="net.proselyte.basepatterns.creational.factory" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProgramCreator">
+  <component name="RunManager" selected="Application.Project">
     <configuration name="DatabaseRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="net.proselyte.basepatterns.structural.adapter.DatabaseRunner" />
       <module name="BasePatterns" />
@@ -118,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StarbuzzCoffee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.proselyte.headfirst.decorator.StarbuzzCoffee" />
+    <configuration name="Project" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.proselyte.basepatterns.structural.composite.Project" />
       <module name="BasePatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="net.proselyte.headfirst.decorator.*" />
+          <option name="PATTERN" value="net.proselyte.basepatterns.structural.composite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Project" />
         <item itemvalue="Application.ProgramCreator" />
         <item itemvalue="Application.DatabaseRunner" />
         <item itemvalue="Application.PizzaRunner" />
         <item itemvalue="Application.Task" />
-        <item itemvalue="Application.StarbuzzCoffee" />
       </list>
     </recent_temporary>
   </component>
@@ -172,8 +177,16 @@
       <workItem from="1624896779691" duration="9859000" />
       <workItem from="1624982014804" duration="58000" />
       <workItem from="1625075037961" duration="63000" />
-      <workItem from="1625156617763" duration="6355000" />
+      <workItem from="1625156617763" duration="7924000" />
     </task>
+    <task id="LOCAL-00001" summary="Add Adapter, Bridge">
+      <created>1625163790259</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625163790260</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,11 +204,15 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add Adapter, Bridge" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Adapter, Bridge" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="910" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1625163286389">
+    <state x="910" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1625165363279">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="910" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1625163286389" />
+    <state x="910" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1625165363279" />
     <state x="463" y="113" key="FileChooserDialogImpl" timestamp="1624301579794">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -236,6 +253,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="147" y="21" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1624465712057" />
+    <state x="275" y="104" key="Vcs.Push.Dialog.v2" timestamp="1625163819123">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="104" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1625163819123" />
     <state x="349" y="59" width="672" height="676" key="search.everywhere.popup" timestamp="1625157375579">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
