@@ -11,32 +11,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffa6d1a2-20c4-4ec8-b530-fa24db2f8e06" name="Default Changelist" comment="Add Adapter, Bridge">
-      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/structural/adapter/Adapter.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/structural/adapter/AdapterJavaToDatabase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/structural/adapter/Database.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/structural/adapter/DatabaseRunner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/structural/adapter/JavaApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/structural/bridge/BankSystem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/structural/bridge/Bridge.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/structural/bridge/CppDeveloper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/structural/bridge/Developer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/structural/bridge/JavaDeveloper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/structural/bridge/Program.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/structural/bridge/ProgramCreator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/basepatterns/structural/bridge/StockExchange.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/headfirst/factory/simple_factory/CheesePizza.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/headfirst/factory/simple_factory/ClamPizza.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/headfirst/factory/simple_factory/PepperoniPizza.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/headfirst/factory/simple_factory/Pizza.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/headfirst/factory/simple_factory/PizzaRunner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/headfirst/factory/simple_factory/PizzaStore.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/headfirst/factory/simple_factory/SimplePizzaFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BasePatterns/net/proselyte/headfirst/factory/simple_factory/VeggiePizza.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/composite/Composite.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/composite/CppDeveloper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/composite/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/composite/JavaDeveloper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/composite/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/facade/BugTracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/facade/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/facade/Facade.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/facade/Job.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/facade/Workflow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +62,7 @@
       <recent name="net.proselyte.basepatterns.creational.factory" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Project">
+  <component name="RunManager" selected="Application.SprintRunner">
     <configuration name="DatabaseRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="net.proselyte.basepatterns.structural.adapter.DatabaseRunner" />
       <module name="BasePatterns" />
@@ -136,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.proselyte.basepatterns.structural.decorator.Task" />
+    <configuration name="SprintRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.proselyte.basepatterns.structural.facade.SprintRunner" />
       <module name="BasePatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="net.proselyte.basepatterns.structural.decorator.*" />
+          <option name="PATTERN" value="net.proselyte.basepatterns.structural.facade.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SprintRunner" />
         <item itemvalue="Application.Project" />
         <item itemvalue="Application.ProgramCreator" />
         <item itemvalue="Application.DatabaseRunner" />
         <item itemvalue="Application.PizzaRunner" />
-        <item itemvalue="Application.Task" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +156,9 @@
       <workItem from="1624896779691" duration="9859000" />
       <workItem from="1624982014804" duration="58000" />
       <workItem from="1625075037961" duration="63000" />
-      <workItem from="1625156617763" duration="7924000" />
+      <workItem from="1625156617763" duration="8313000" />
+      <workItem from="1625417613804" duration="534000" />
+      <workItem from="1626449764164" duration="1635000" />
     </task>
     <task id="LOCAL-00001" summary="Add Adapter, Bridge">
       <created>1625163790259</created>
@@ -217,22 +198,22 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="463" y="113" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1624301579794" />
-    <state width="1323" height="259" key="GridCell.Tab.0.bottom" timestamp="1625163583494">
+    <state width="1323" height="259" key="GridCell.Tab.0.bottom" timestamp="1625165907368">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="259" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1625163583494" />
-    <state width="1323" height="259" key="GridCell.Tab.0.center" timestamp="1625163583494">
+    <state width="1323" height="259" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1625165907368" />
+    <state width="1323" height="259" key="GridCell.Tab.0.center" timestamp="1625165907368">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="259" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1625163583494" />
-    <state width="1323" height="259" key="GridCell.Tab.0.left" timestamp="1625163583494">
+    <state width="1323" height="259" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1625165907368" />
+    <state width="1323" height="259" key="GridCell.Tab.0.left" timestamp="1625165907368">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="259" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1625163583494" />
-    <state width="1323" height="259" key="GridCell.Tab.0.right" timestamp="1625163583494">
+    <state width="1323" height="259" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1625165907368" />
+    <state width="1323" height="259" key="GridCell.Tab.0.right" timestamp="1625165907368">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="259" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1625163583494" />
+    <state width="1323" height="259" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1625165907368" />
     <state width="1323" height="218" key="GridCell.Tab.1.bottom" timestamp="1624908977065">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
