@@ -11,11 +11,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffa6d1a2-20c4-4ec8-b530-fa24db2f8e06" name="Default Changelist" comment="Add Adapter, Bridge">
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/facade/BugTracker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/facade/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/facade/Facade.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/facade/Job.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/facade/Workflow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/flyweight/CppDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/flyweight/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/flyweight/DeveloperFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/flyweight/Flyweight.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/flyweight/JavaDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/flyweight/ProjectRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/proxy/Project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/proxy/ProjectRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/proxy/Proxy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/proxy/ProxyProject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/proxy/RealProject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,33 +68,7 @@
       <recent name="net.proselyte.basepatterns.creational.factory" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SprintRunner">
-    <configuration name="DatabaseRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.proselyte.basepatterns.structural.adapter.DatabaseRunner" />
-      <module name="BasePatterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="net.proselyte.basepatterns.structural.adapter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PizzaRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.proselyte.headfirst.factory.simple_factory.PizzaRunner" />
-      <module name="BasePatterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="net.proselyte.headfirst.factory.simple_factory.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ProjectRunner (1)">
     <configuration name="ProgramCreator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="net.proselyte.basepatterns.structural.bridge.ProgramCreator" />
       <module name="BasePatterns" />
@@ -115,6 +95,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProjectRunner (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.proselyte.basepatterns.structural.proxy.ProjectRunner" />
+      <module name="BasePatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.proselyte.basepatterns.structural.proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProjectRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.proselyte.basepatterns.structural.flyweight.ProjectRunner" />
+      <module name="BasePatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.proselyte.basepatterns.structural.flyweight.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SprintRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="net.proselyte.basepatterns.structural.facade.SprintRunner" />
       <module name="BasePatterns" />
@@ -130,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProjectRunner (1)" />
+        <item itemvalue="Application.ProjectRunner" />
         <item itemvalue="Application.SprintRunner" />
         <item itemvalue="Application.Project" />
         <item itemvalue="Application.ProgramCreator" />
-        <item itemvalue="Application.DatabaseRunner" />
-        <item itemvalue="Application.PizzaRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +164,7 @@
       <workItem from="1625075037961" duration="63000" />
       <workItem from="1625156617763" duration="8313000" />
       <workItem from="1625417613804" duration="534000" />
-      <workItem from="1626449764164" duration="1635000" />
+      <workItem from="1626449764164" duration="4940000" />
     </task>
     <task id="LOCAL-00001" summary="Add Adapter, Bridge">
       <created>1625163790259</created>
@@ -190,30 +196,34 @@
     <option name="LAST_COMMIT_MESSAGE" value="Add Adapter, Bridge" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="910" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1625165363279">
+    <state x="906" y="357" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1626454043410">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="910" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1625165363279" />
+    <state x="906" y="357" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1626454043410" />
+    <state x="910" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1626454965349">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="910" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1626454965349" />
     <state x="463" y="113" key="FileChooserDialogImpl" timestamp="1624301579794">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="463" y="113" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1624301579794" />
-    <state width="1323" height="259" key="GridCell.Tab.0.bottom" timestamp="1625165907368">
+    <state width="1323" height="259" key="GridCell.Tab.0.bottom" timestamp="1626454011489">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="259" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1625165907368" />
-    <state width="1323" height="259" key="GridCell.Tab.0.center" timestamp="1625165907368">
+    <state width="1323" height="259" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1626454011489" />
+    <state width="1323" height="259" key="GridCell.Tab.0.center" timestamp="1626454011489">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="259" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1625165907368" />
-    <state width="1323" height="259" key="GridCell.Tab.0.left" timestamp="1625165907368">
+    <state width="1323" height="259" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1626454011489" />
+    <state width="1323" height="259" key="GridCell.Tab.0.left" timestamp="1626454011488">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="259" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1625165907368" />
-    <state width="1323" height="259" key="GridCell.Tab.0.right" timestamp="1625165907368">
+    <state width="1323" height="259" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1626454011488" />
+    <state width="1323" height="259" key="GridCell.Tab.0.right" timestamp="1626454011489">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="259" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1625165907368" />
+    <state width="1323" height="259" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1626454011489" />
     <state width="1323" height="218" key="GridCell.Tab.1.bottom" timestamp="1624908977065">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
