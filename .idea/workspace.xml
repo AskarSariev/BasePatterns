@@ -11,17 +11,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffa6d1a2-20c4-4ec8-b530-fa24db2f8e06" name="Default Changelist" comment="Add Adapter, Bridge">
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/flyweight/CppDeveloper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/flyweight/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/flyweight/DeveloperFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/flyweight/Flyweight.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/flyweight/JavaDeveloper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/flyweight/ProjectRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/proxy/Project.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/proxy/ProjectRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/proxy/Proxy.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/proxy/ProxyProject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/structural/proxy/RealProject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/behavioral/chain/BugTracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/behavioral/chain/ChainOfResponsibility.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/behavioral/chain/EmailNotifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/behavioral/chain/Notifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/behavioral/chain/Priority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/behavioral/chain/SMSNotifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/net/proselyte/basepatterns/behavioral/chain/SimpleReportNotifier.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +50,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -68,13 +64,13 @@
       <recent name="net.proselyte.basepatterns.creational.factory" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProjectRunner (1)">
-    <configuration name="ProgramCreator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="net.proselyte.basepatterns.structural.bridge.ProgramCreator" />
+  <component name="RunManager" selected="Application.BugTracker">
+    <configuration name="BugTracker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.proselyte.basepatterns.behavioral.chain.BugTracker" />
       <module name="BasePatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="net.proselyte.basepatterns.structural.bridge.*" />
+          <option name="PATTERN" value="net.proselyte.basepatterns.behavioral.chain.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BugTracker" />
         <item itemvalue="Application.ProjectRunner (1)" />
         <item itemvalue="Application.ProjectRunner" />
         <item itemvalue="Application.SprintRunner" />
         <item itemvalue="Application.Project" />
-        <item itemvalue="Application.ProgramCreator" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +160,9 @@
       <workItem from="1625075037961" duration="63000" />
       <workItem from="1625156617763" duration="8313000" />
       <workItem from="1625417613804" duration="534000" />
-      <workItem from="1626449764164" duration="4940000" />
+      <workItem from="1626449764164" duration="6344000" />
+      <workItem from="1626497332221" duration="862000" />
+      <workItem from="1626498696878" duration="1861000" />
     </task>
     <task id="LOCAL-00001" summary="Add Adapter, Bridge">
       <created>1625163790259</created>
@@ -200,30 +198,30 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="906" y="357" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1626454043410" />
-    <state x="910" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1626454965349">
+    <state x="910" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1626500209058">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="910" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1626454965349" />
+    <state x="910" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1626500209058" />
     <state x="463" y="113" key="FileChooserDialogImpl" timestamp="1624301579794">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="463" y="113" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1624301579794" />
-    <state width="1323" height="259" key="GridCell.Tab.0.bottom" timestamp="1626454011489">
+    <state width="1323" height="259" key="GridCell.Tab.0.bottom" timestamp="1626458408684">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="259" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1626454011489" />
-    <state width="1323" height="259" key="GridCell.Tab.0.center" timestamp="1626454011489">
+    <state width="1323" height="259" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1626458408684" />
+    <state width="1323" height="259" key="GridCell.Tab.0.center" timestamp="1626458408683">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="259" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1626454011489" />
-    <state width="1323" height="259" key="GridCell.Tab.0.left" timestamp="1626454011488">
+    <state width="1323" height="259" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1626458408683" />
+    <state width="1323" height="259" key="GridCell.Tab.0.left" timestamp="1626458408683">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="259" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1626454011488" />
-    <state width="1323" height="259" key="GridCell.Tab.0.right" timestamp="1626454011489">
+    <state width="1323" height="259" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1626458408683" />
+    <state width="1323" height="259" key="GridCell.Tab.0.right" timestamp="1626458408683">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="259" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1626454011489" />
+    <state width="1323" height="259" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1626458408683" />
     <state width="1323" height="218" key="GridCell.Tab.1.bottom" timestamp="1624908977065">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -240,10 +238,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1323" height="218" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1624908977065" />
-    <state x="147" y="21" key="SettingsEditor" timestamp="1624465712057">
+    <state x="147" y="21" key="SettingsEditor" timestamp="1626498772135">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="147" y="21" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1624465712057" />
+    <state x="147" y="21" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1626498772135" />
     <state x="275" y="104" key="Vcs.Push.Dialog.v2" timestamp="1625163819123">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
